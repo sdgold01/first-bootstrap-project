@@ -1,0 +1,18 @@
+.navbar .navbar-brand{
+    font-size: 1rem;
+    color: rgba(255, 255, 255,.85);
+    padding-top: .45rem;
+}
+.navbar-nav{
+    margin-left: 82px;
+}
+.reg-btn{
+    margin-left: 400px;
+}
+.jumbotron{
+    background: url('../img/jumbo-bg.jpg');
+    background-size: cover;
+}
+.btn .active{
+    transition: .4s;
+}
